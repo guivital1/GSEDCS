@@ -8,3 +8,7 @@ Quando o piezo está funcionando, é acionado um LED Verde para mostrar que est�
 link do video:
 
 https://youtu.be/xgpaSwT1YAQ
+
+link do modelo no tinkercad:
+
+https://www.tinkercad.com/things/aFmPRjX9VaR/editel
